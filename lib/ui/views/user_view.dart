@@ -92,7 +92,7 @@ class _AvatarContainer extends StatelessWidget {
                   children: [
                     Center(
                       child: ClipOval(
-                        child: Image(image: AssetImage('profile-icon-design-free-vector.jpg')),
+                        child: Image(image: AssetImage('assets/profile-icon-design-free-vector.jpg')),
                       ),
                     ),
                   ],

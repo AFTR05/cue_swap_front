@@ -53,7 +53,7 @@ class _DesktopBody extends StatelessWidget {
       height: size.height,
       decoration: const BoxDecoration(
         image: DecorationImage(
-          image: AssetImage('background.png'),
+          image: AssetImage('assets/background.png'),
           fit: BoxFit.cover
         )
       ),

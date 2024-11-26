@@ -81,7 +81,7 @@ class _AvatarContainer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
 
-    const image= Image(image: AssetImage('publicidad-digital.png'), );
+    const image= Image(image: AssetImage('assets/publicidad-digital.png'), );
 
     return WhiteCard(
       width: 250,
