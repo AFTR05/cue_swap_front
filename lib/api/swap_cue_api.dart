@@ -4,7 +4,7 @@ import 'package:cue_swap/services/local_storage.dart';
 import 'package:http/http.dart' as http;
 
 class SwapCUEApi {
-  static const String baseUrl = 'https://3.132.216.206';
+  static const String baseUrl = 'https://18.224.16.168';
 
 
   static Future<dynamic> get(String path) async {
