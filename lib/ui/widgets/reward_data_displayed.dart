@@ -31,7 +31,7 @@ class RewardDataDisplayed extends StatelessWidget {
                     imageUrl,
                     height: height * 0.6,
                     fit: BoxFit.cover)
-                : Image.asset("reward.png",
+                : Image.asset("assets/reward.png",
                   height: height * 0.6,
                     fit: BoxFit.cover
                 )

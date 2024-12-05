@@ -39,7 +39,7 @@ class PublicationDisplayed extends StatelessWidget {
                     imageUrl,
                     height: height * 0.6,
                     fit: BoxFit.cover)
-                : Image.asset("publicidad-digital.png",
+                : Image.asset("assets/publicidad-digital.png",
                   height: height * 0.6,
                     fit: BoxFit.cover
                 )

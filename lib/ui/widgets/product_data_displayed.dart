@@ -38,7 +38,7 @@ class ProductDataDisplayed extends StatelessWidget {
                     imageUrl,
                     height: height * 0.6,
                     fit: BoxFit.cover)
-                : Image.asset("caja-del-paquete.png",
+                : Image.asset("assets/caja-del-paquete.png",
                   height: height * 0.6,
                     fit: BoxFit.cover
                 )
